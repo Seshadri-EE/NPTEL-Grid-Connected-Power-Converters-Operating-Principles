@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks used to build up an understanding of 
 | Tutorial | Topic | Status |
 |---|---|---|
 | 02 | Single-phase converter with a switching pole | Available |
-| 03 | Single-phase H-bridge converter | Coming soon |
+| 03 | Single-phase H-bridge converter | Available |
 | 04 | Three-phase converter | Coming soon |
 
 Each tutorial folder has its own README with details on the notebooks it contains and how to run them.
